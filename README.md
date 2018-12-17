@@ -1,7 +1,6 @@
-运行项目：
+杩愯椤圭洰
 ```
 npm install
-
-   npm start
+npm start
 
 ```
