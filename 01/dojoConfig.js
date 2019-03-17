@@ -10,4 +10,3 @@ window.dojoConfig = {
 };
 console.log(window.dojoConfig);
 
-
